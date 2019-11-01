@@ -10,3 +10,10 @@ __meta__ = {
 
 [node name="Board" type="Sprite" parent="."]
 script = ExtResource( 1 )
+
+[node name="Button" type="Button" parent="."]
+margin_left = 879.814
+margin_top = 69.9143
+margin_right = 921.814
+margin_bottom = 89.9143
+text = "Back"
